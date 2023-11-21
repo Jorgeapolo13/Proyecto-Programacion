@@ -1,3 +1,3 @@
 # Proyecto-Programacion
-Esto es un proyecto final de trimestre para la asignatura de Programacion del grado superior en Diseño de Aplicaciones Web perteneciente al Instituto Suarez de Figueroa
-Soy Jorge Apolo Dominguez estudiande de programacion.
+Esto es un proyecto final de trimestre para la asignatura de Programacion del grado superior en Diseño de Aplicaciones Web perteneciente al Instituto Suarez de Figueroa.
+Soy Jorge Apolo Dominguez estudiante de programacion.
